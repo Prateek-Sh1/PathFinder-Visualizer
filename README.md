@@ -33,12 +33,15 @@ An interactive web-based visualization tool for understanding pathfinding algori
 
 ## 📸 Demo images
 
-<img width="1920" height="1080" alt="Screenshot 2026-06-25 181810" src="https://github.com/user-attachments/assets/c5c77490-08d7-41cf-b3c1-0116116a73bf" />
-<img width="1920" height="1080" alt="Screenshot 2026-06-25 181817" src="https://github.com/user-attachments/assets/7f58c2ad-db3d-40f6-94a2-26ac0471d1c8" />
-<img width="1920" height="1080" alt="Screenshot 2026-06-25 181828" src="https://github.com/user-attachments/assets/c8df0d5c-2b62-4f45-9f90-1655ae7d3f66" />
-<img width="1920" height="1080" alt="Screenshot 2026-06-25 181842" src="https://github.com/user-attachments/assets/3185fccf-b96f-4465-9a79-a996c9f5fd0b" />
-<img width="1920" height="1080" alt="Screenshot 2026-06-25 181859" src="https://github.com/user-attachments/assets/f63c54e0-578c-4572-8f32-d3e8a0edf214" />
-<img width="1920" height="1080" alt="Screenshot 2026-06-25 181909" src="https://github.com/user-attachments/assets/35286d6d-b7e9-40f4-9a15-432053c0bb58" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 183738" src="https://github.com/user-attachments/assets/28be3d80-5158-418b-bc55-4fb2aa239c66" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 183745" src="https://github.com/user-attachments/assets/babb69a3-f16d-400c-b40e-012bdfea957b" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 183754" src="https://github.com/user-attachments/assets/fa2af070-00e9-4b54-a5ea-5467ae31fbeb" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 183802" src="https://github.com/user-attachments/assets/3a2735fa-95e7-44ae-b91d-2e38fd090199" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 183814" src="https://github.com/user-attachments/assets/4a030d2d-bbe8-4f1f-a294-1210d8dbce89" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 183836" src="https://github.com/user-attachments/assets/3f475fd3-cb6e-4263-b073-75e69edba179" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-25 183851" src="https://github.com/user-attachments/assets/9912181e-2537-4178-a745-2969f606e4f9" />
+
+
 
 
 ## 👨‍💻 Author
